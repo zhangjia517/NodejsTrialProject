@@ -1,7 +1,7 @@
 ﻿var http = require('http');
 
 function RequestListener(req, res) {
-	res.write("Hello world");
+	res.write("Hello fuck");
 	res.end();
 }
 
